@@ -1,0 +1,5 @@
+Field,Type,Null,Key,Default,Extra
+id,int,NO,PRI,NULL,auto_increment
+title,varchar(255),NO,,NULL,
+description,varchar(255),YES,,NULL,
+status,varchar(255),YES,,pending,
